@@ -4,7 +4,7 @@ Projekt końcowy z przedmiotu Projektowanie Systemów Informacyjnych
 Na projekt składa się skrypt w języku R.
 
 Jako benchmark testowy umieściłem test dla wypowiedzi Leszka Milera. 
-Analiza opiera się na autorskim słowniku sentymentu politycznego. (Plik: slownik_polityczny_pl)
+Analiza opiera się na autorskim słowniku sentymentu politycznego. (Plik: slownik_polityczny_pl) Lub można zmienić na szerszy slownik_polityczny_lematy
 Do analizy użyliśmy lematyzacji, żeby kod brał pod uwagę słowa odmienione np. dobro/dobry jako ten sam sentyment.
 
 ---Jak uruchomić---
