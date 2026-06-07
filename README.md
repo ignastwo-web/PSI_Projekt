@@ -10,8 +10,8 @@ Do analizy użyliśmy lematyzacji, żeby kod brał pod uwagę słowa odmienione 
 ---Jak uruchomić---
 
 Pobrać pliki:
-analiza_polityczna_Pl.R
-slownik_polityczny_Pl.csv
+analiza_polityczna_v2.R
+slownik_polityczny_Pl.csv lub slownik_polityczny_lematy
 Pliki (.txt) do analizy -> w kodzie jest wektor tekstów, więc możesz ich ładować aż miło
 
 Wszystkie powyższe pliki najlepiej trzymaj w jednym pliku - np. projekt_PSI
